@@ -48,6 +48,7 @@
     border-color: #dddddd;
     margin-top: 20px;
     cursor: pointer;
+    color: black
 }
 
 .button{
@@ -76,6 +77,10 @@
     padding: 10px;
     text-align: center;
     cursor: pointer;
+    color: #3c4043;
+}
+.button:hover{
+    border: 1px solid #f8f9fa;
 }
 .fa{
     margin-right: 7px;
