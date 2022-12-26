@@ -1,0 +1,195 @@
+.links{
+    text-align: right;
+    vertical-align: top;
+}
+
+.links a{
+    margin-right: 30px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+
+.GIMG{
+    width: 350px;
+    height: 130px;
+}
+.googleimg{
+    margin-top: 200px;
+    height: 180px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    flex-wrap: wrap;
+}
+.searchbox{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    border-radius: 50px;
+    height: 40px;
+    border: 1px solid #dddddd;
+    outline: none;
+    padding-left: 20px;
+}
+
+.searchbox:hover {
+    box-shadow: 0px 1px 3px rgb(192, 185, 185);
+}
+
+.button{
+    padding: 10px 20px 10px 20px;
+    border-radius: 4px;
+    border: none;
+    border-color: #dddddd;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.button{
+    text-align: center;
+}
+
+.main .searchbox input{
+    border: none!important; 
+    box-shadow: none!important;
+    outline: none;
+    margin-left: 3px;
+    margin-top: 6px;
+    font-size: 18px;
+} 
+
+.main .button{
+    display: flex;
+    justify-content: center;
+}
+.main .button input{
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 5px;
+    font-size: 14px;
+    margin: 20px 5px;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+.fa{
+    margin-right: 7px;
+}
+#img{
+    margin-bottom: 10px;
+}
+.i1{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f28b82;
+    border-bottom: 2px solid #ebebeb;
+    margin: 0px 0px 0px 10px;
+    padding-left: 20px ;
+    padding-bottom: 20px;
+}
+
+.img1{
+    width: 74px;
+    height: 24px;
+    padding: 0px 30px 0px 0px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.io .Lhsforaph{
+    font:16px;
+    min-width: 167px;
+    width: 16%;
+    font-weight: 500;
+    color: #333;
+}
+
+.io{
+    display: flex;
+    align-items: center;
+    max-width: 1140px;
+    min-width: 200px;
+    width: 96%;
+    margin: 40px 2% 0 45px;
+}
+.io .Lhsforap{
+    width: 200px;
+    font-size: 13px;
+}
+.io .searchboxforap{
+    min-width: 167px;
+    width: 50%;
+}
+.io .searchboxforap input {
+    border-radius: 1px;
+    border: 1px solid #d9d9d9;
+    font-size: 13px;
+    height: 25px;
+    padding: 1px 8px;
+    width: 100%;
+}
+.Rhsforaph{
+    font:16px;
+    min-width: 167px;
+    width: 16%;
+    font-weight: 500;
+    color: #333;
+    margin-left: 600px;
+    text-align: right;
+  
+}
+
+.io .Rhsforap{
+    width: 32%;
+    min-width: 16px;
+    color: #555;
+    font-size: 11px;
+    white-space: pre;
+} 
+.subclassRhs{
+    color: #666;
+    font-family: monospace;
+    font-size: 11px;
+    white-space: pre;
+}
+
+.io .button{
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+
+}
+.button input{
+    background-color: #4d90fe;
+    background-image: -webkit-linear-gradient(top,#4d90fe), #4787ed;
+    color: #fff;
+    height: 30px;
+    min-width: 120px;
+    border: 1px solid #3079ed;
+    border-radius: 2px;
+    font-size: 11px;
+    font-weight: bold;
+}
+.Rhsforap{
+    margin-left: 50px;
+}
+.img2{
+    width: 272px;
+    height: 92px;
+}
+
+
+
+
+
+
+
+
+
+
+
